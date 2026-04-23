@@ -4,7 +4,7 @@
 This repository contains two key artifacts from the CS-300 Data Structures and Algorithms course, demonstrating the evaluation and implementation of data structures to solve a real-world advising program scenario.
 
 ### Included Artifacts
-1. **[Runtime and Memory Analysis (Project One)](Run-time and Memory Analysis.md):** Analyzes the time and memory complexities of Vectors, Hash Tables, and Binary Search Trees (BST) to determine the most optimal data structure for loading, searching, and sorting academic course data.
+1. **[Runtime and Memory Analysis (Project One)](Run-time%20and%20Memory%20Analysis.md):** Analyzes the time and memory complexities of Vectors, Hash Tables, and Binary Search Trees (BST) to determine the most optimal data structure for loading, searching, and sorting academic course data.
 2. **[Binary Search Tree Implementation (Project Two)](ProjectTwo.cpp):** The completed C++ program utilizing a BST to read course data from a CSV file, validate prerequisites, search for specific courses, and print a fully ordered alphanumeric course list.
 
 ## Reflection
